@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Model files
+*.keras
+*.h5
+
+# Generated images
+*.png
+!img.png
+
+# Logs
+*.log 
